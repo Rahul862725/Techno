@@ -10,5 +10,5 @@ Task perform by techno
 6. it can open youtube, google,stackoverflow and ask you what you want to search.
 7. By saying quite , it terminate their process.
 
-Also it automate my computer command , i am only so one command in file.
+Also it automate my computer command.
  
